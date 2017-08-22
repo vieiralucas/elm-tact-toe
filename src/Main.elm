@@ -3,7 +3,7 @@ module Main exposing (..)
 import Html exposing (..)
 import Html.Events exposing (..)
 import Html.Attributes exposing (..)
-import Board exposing (Board, Pos)
+import Board exposing (Board)
 import Player exposing (Player)
 
 
